@@ -1,0 +1,14 @@
+# Global default owners (fallback)
+* @Puyalavan @RamonChenevardHSLU
+
+# Frontend
+/frontend/ @eris842
+
+# Backend
+/backend/ @Linksspringer
+
+# Docs
+/docs/ @shashani0204
+
+# CI/CD & repo config
+/.github/ @RamonChenevardHSLU
